@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Exec=/home/msi/.local/share/warp/warp.on.sh
+Icon=/home/msi/.local/share/warp/warp.on.png
+Name=WARP On
+GenericName=WARP On
+Comment=Connect to WARP
+Encoding=UTF-8
+Terminal=true
+Type=Application
+Categories=Application;Network;
+Name[en_AU]=WARP On

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Exec=/home/msi/.local/share/warp/warp.off.sh
+Icon=/home/msi/.local/share/warp/warp.off.png
+Name=WARP Off
+GenericName=WARP Off
+Comment=Disconnect and restart network
+Encoding=UTF-8
+Terminal=true
+Type=Application
+Categories=Application;Network;
