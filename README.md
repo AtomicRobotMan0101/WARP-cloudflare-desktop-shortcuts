@@ -34,7 +34,9 @@ I am NOT a Linux systems expert. Simply someone who enjoys the frustration of fi
 
 Attached is a screenshot showing my desktop.... 
 
-![WARP-cloudflare-desktop-shortcuts](WARPdesktopScreenshot.png)
+![WARPdesktopScreenshot2](https://user-images.githubusercontent.com/64177332/205481815-88ec2563-849d-45be-9c13-18552875792a.png)
+
+
 
 
 ## "INSTILLATION"
