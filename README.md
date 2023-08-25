@@ -30,7 +30,7 @@ OK - this is to those:
 
 My setup is Linux Mint Cinnamon 21 with the WARP CLI installed (instructions are in the links of the article above).
 
-I am NOT a Linux systems expert. Simply someone who enjoys the frustration of fixing trivial problems :) Experts, please accept all my errors, omissions, oversights and horrible ignorance, and feel free to freely correct anything.
+I am NOT a Linux **systems** expert. Simply someone who enjoys the frustration of fixing trivial problems :) Experts, please accept all my errors, omissions, oversights and horrible ignorance, and feel free to freely correct anything.
 
 Attached is a screenshot showing my desktop.... 
 
@@ -39,7 +39,7 @@ Attached is a screenshot showing my desktop....
 
 
 
-## "INSTILLATION"
+## "INSTALLATION"
 
 Once one has installed WARP, done the `warp-cli register` and `warp-cli connect` thing, there is a directory here `/home/USER/.local/share/warp` that contains the file `accepted-tos.txt`.
 
